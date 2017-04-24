@@ -1,5 +1,4 @@
 docs/dist
-lib/
 
 # OSX
 #
@@ -36,6 +35,7 @@ local.properties
 #
 node_modules/
 npm-debug.log
+lerna-debug.log
 
 # BUCK
 buck-out/
